@@ -1,2 +1,2 @@
 # code-templates
-Code Templates for CP in JS
+Code Templates for CP in JS & Python
